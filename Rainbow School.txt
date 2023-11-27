@@ -1,0 +1,20 @@
+Deepa h, 17, Female, Grade 11, 210 Ganges Road, Kolkata, (91) 8765432109, deepa.h@email.com
+Priya P, 15, Female, Grade 9, 456 Gandhi Road, Mumbai, (91) 8765432109, priya.p@email.com
+Madhu g , 15, Male, Grade 9, 432 Charminar Street, Indore, (91) 2109876543, madhu.g@email.com
+Kumar, 17, Male, Grade 7, 143 Ganga Nagar, Chennai, (91) 9876543210 , kumar@email.com
+Kiran d, 16, Male, Grade 10, 654 Marine Drive, Mumbai, (91) 9876543210 , kiran.d@email.com
+Rohit Sharma, 17, Male, Grade 11, 789 Yamuna Vihar, Kolkata, (91) 7654321098, rohiit.sharma@email.com
+Rithu Reddy, 14, Female, Grade 8, 321 Nandi Hills, Bengaluru, (91) 6543210987, rithu.reddy@email.com
+Suresh K, 16, Male, Grade 10, 567 Lotus Avenue, Hyderabad, (91) 5432109876, suresh.k@email.com
+Kavita S, 17, Female, Grade 11, 890 Taj Mahal Road, Agra, (91) 4321098765, kavita.s@email.com
+Vikram D, 15, Male, Grade 9, 432 Charminar Street, Ahmedabad, (91) 3210987654, vikram.d@email.com
+Ananya D, 17, Female, Grade 11, 210 Victoria Road, Chennai, (91) 9876543210, ananya.d@email.com
+Nisha R, 16, Female, Grade 10, 456 Rose Garden, Lucknow, (91) 7654321098, nisha.r@email.com
+Rohit Mehta, 17, Male, Grade 11, 789 Himalaya Heights, Dehradun, (91) 6543210987, rohit.mehta@email.com
+Shruti N, 14, Female, Grade 8, 321 Coconut Avenue, Kochi, (91) 5432109876, shruti.n@email.com
+Vikas Y, 16, Male, Grade 10, 567 Taj Mahal Road, Varanasi, (91) 4321098765, vikas.y@email.com
+Priyanka S, 17, Female, Grade 11, 890 Red Fort Colony, Bhopal, (91) 3210987654, priyanka.s@email.com
+Riya S, 18, Female, Grade 12, 987 Gateway Apartments, Chandigarh, (91) 1098765432, riya.s@email.com
+Arjun A, 15, Male, Grade 9, 123 Lotus Nagar, Surat, (91) 8765432109, arjun.a@email.com
+Rahul Reddy, 16, Male, Grade 10, 654 Gateway Colony, Pune, (91) 1098765432, rahul.reddy@email.com
+Meera Jasmin, 18, Female, Grade 12, 987 Red Fort Apartments, Jaipur, (91) 2109876543, meera.jasmin@email.com
